@@ -1,0 +1,8 @@
+# speech
+# sudo apt-get install portaudio19-dev libportaudio2
+PyAudio
+pydub
+sentence_transformers
+openai-whisper
+pygame
+
